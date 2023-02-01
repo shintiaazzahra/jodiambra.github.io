@@ -101,6 +101,16 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 
 ## Other Projects
 
+Beta Bank Churn
+[Beta Bank Churn](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
+- Purpose
+The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
+This is a binary classification problem, therefore, we will be focussing on that class of modeling. This is the case because the target is categorical: churn or not. The F1 score is an appropriate indicator of our model, because we care about both precision and recall. We care about precision because we want to capture as many true positive occurrences of churning. Recall is also crucial, as we want to capture as many occurrences of churning as possible.
+
+Rusty Bargain Car Value Predictions
+[Rusty Bargain](https://github.com/jodiambra/Rusty-Bargain-Car-Market-Value/blob/main/Rusty%20Bargain.ipynb)
+- Purpose
+Rusty Bargain is developing an app to attract new customers, and they need to be able to quickly find out the market value of a car. We are given access to historical data: technical specifications, trim, and prices. Rusty Bargain wants a model that will predict the value of the car, while also considering the quality and speed of the prediction, and also the time required for training.
 Yandex-Music
 First data science project, EDA
 [Yandex Music](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
@@ -108,7 +118,7 @@ First data science project, EDA
 -  Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
 
-Instacard-EDA
+Instacart-EDA
 Instacart Exploratory Data Analysis
 [Instacart EDA](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
 
@@ -122,21 +132,15 @@ Megaline-Plus
 -  Purpose 
 The purpose of this project remains to analyze the data provided by the telecom operator Megaline. With an offering of two plans, Surf and Ultimate, the goal of this project is to determine optimal capital allocation. We will determine which plan brings in more revenue. This will result in an adjustment of the advertising budget, as a means to further increase revenue. The dataset provided is a sample of the population of Megaline customers, across different cities in 2018. We will conduct further analysis on the client behavior, as well as look at other important insights found in the data. 
 
-Beta Bank Churn
-[Beta Bank Churn](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
+Megaline Plus Recommendations
+[Megaline](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
 - Purpose
-The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
-This is a binary classification problem, therefore, we will be focussing on that class of modeling. This is the case because the target is categorical: churn or not. The F1 score is an appropriate indicator of our model, because we care about both precision and recall. We care about precision because we want to capture as many true positive occurrences of churning. Recall is also crucial, as we want to capture as many occurrences of churning as possible.
+The purpose of this project is to aid Megaline, a mobile carrier, in developing a model that will analyze subscribers' behavior. Once the behavior is analyzed, subscribers on a legacy plan can be recommended one of Megaline's newer plans: Smart or Ultra. We are provided with behavior data from subscribers who have already switched to the new plans. A successful model will classify a correct new plan to a legacy plan customer. We will be working with data that we've used previously, so the data will be clean.
 
 Zuber Web Scrapping
 [Zuber Web Scrapping](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
 - Purpose
 Zuber is a new ride-sharing company that is launching in Chicago. We are tasked to find patterns in the available information. The goal of the project is to understand passenger passenger preferences and the impact of external factors on rides. Working with the database, we will analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
-
-Megaline Plus Recommendations
-[Megaline](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
-- Purpose
-The purpose of this project is to aid Megaline, a mobile carrier, in developing a model that will analyze subscribers' behavior. Once the behavior is analyzed, subscribers on a legacy plan can be recommended one of Megaline's newer plans: Smart or Ultra. We are provided with behavior data from subscribers who have already switched to the new plans. A successful model will classify a correct new plan to a legacy plan customer. We will be working with data that we've used previously, so the data will be clean.
 
 Oily Giant Profitable Well Prediction
 [Oily Giant ](https://github.com/jodiambra/Oily-Giant/blob/main/Oily%20Giant.ipynb)
@@ -147,13 +151,6 @@ Zyfra Gold Recovery Prediction
 [Zyfra Gold](https://github.com/jodiambra/Zyfra-Gold-Mining/blob/main/Zyfra%20Machine%20Learning%20Model.ipynb)
 - Purpose
 The purpose of this project is to prepare a prototype of a machine learning model for Zyfra, a company that develops efficiency solutions for the heavy industry. The model will aim to predict the amount of gold recovered from gold ore. The features we will use will be data on gold extraction and purification. The goal is to have the model optimize the production and eliminate unprofitable parameters.
-
-Rusty Bargain Car Value Predictions
-[Rusty Bargain](https://github.com/jodiambra/Rusty-Bargain-Car-Market-Value/blob/main/Rusty%20Bargain.ipynb)
-- Purpose
-Rusty Bargain is developing an app to attract new customers, and they need to be able to quickly find out the market value of a car. We are given access to historical data: technical specifications, trim, and prices. Rusty Bargain wants a model that will predict the value of the car, while also considering the quality and speed of the prediction, and also the time required for training.
-
-
 
 
 
