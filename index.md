@@ -7,7 +7,7 @@ Data Science
 ### Ice Retail
 
 [Ice Retail EDA](https://github.com/jodiambra/ICE-Retail/blob/main/ICE%20Retail%20EDA.ipynb)
-<img src="ice2.jpeg?raw=true"/>
+<img src="ice2.jpeg">
 <img src="ice4.jpeg?raw=true"/>
 <img src="ice8.jpeg?raw=true"/>
 <img src="ice9.jpeg?raw=true"/>
