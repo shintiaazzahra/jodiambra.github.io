@@ -1,11 +1,24 @@
 ## Portfolio
 
----
+Data Science
 
-### Category Name 1 
+### Exploratory Data Analysis 
 
-[Project 1 Title](/sample_page)
+#### Yandex-Music
+First data science project, EDA
+
+[Yandex Music](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+###### Skills Demonstrated
+    Pandas
+    Missing values
+    Duplicates
+    Filtering
+
+##### Purpose
+The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
