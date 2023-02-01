@@ -10,7 +10,7 @@ First data science project, EDA
 [Yandex Music](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-###### Skills Demonstrated
+##### Skills Demonstrated
     Pandas
     Missing values
     Duplicates
