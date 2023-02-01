@@ -41,8 +41,9 @@ Run notebook to see interactive visualizations.
 Open figures to see static visualizations. 
 
 ---
+### Sure Tomorrow Insurance
 
-[Megaline Plus Revenue](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
+[Sure Tomorrow Insurance](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -55,28 +56,27 @@ Open figures to see static visualizations.
 
 ## Other Projects
 
--  Yandex-Music
+Yandex-Music
 First data science project, EDA
 [Yandex Music](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
 
-#### Purpose
+-  Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
 
--  Instacard-EDA
+Instacard-EDA
 Instacart Exploratory Data Analysis
 [Instacart EDA](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
 
-#### Purpose
+-  Purpose
 This project analyzes data collected by Instacart, the grocery delivery platform. The purpose of this project is to clean up the data, and use the cleaned data to report insights on shopping habits of Instacart customers. The data  was cleaned by removing duplicate vales, and filling in missing values, all while maintaining the integrity of the dataset. Analyses indicated the number of orders placed, dependent on variables such as time of the day, day of the week, and time since the customer last placed an order. The results demonstrate the distribution of the number of orders customers place, the top 20 products, and the top 20 reordered products. 
 
 
--  Megaline-Plus
-
+Megaline-Plus
 [Megaline Plus Revenue](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-#### Purpose 
+-  Purpose 
 The purpose of this project remains to analyze the data provided by the telecom operator Megaline. With an offering of two plans, Surf and Ultimate, the goal of this project is to determine optimal capital allocation. We will determine which plan brings in more revenue. This will result in an adjustment of the advertising budget, as a means to further increase revenue. The dataset provided is a sample of the population of Megaline customers, across different cities in 2018. We will conduct further analysis on the client behavior, as well as look at other important insights found in the data. 
+
 
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
