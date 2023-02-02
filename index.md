@@ -116,7 +116,7 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 - Purpose
 The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
 This is a binary classification problem, therefore, we will be focussing on that class of modeling. This is the case because the target is categorical: churn or not. The F1 score is an appropriate indicator of our model, because we care about both precision and recall. We care about precision because we want to capture as many true positive occurrences of churning. Recall is also crucial, as we want to capture as many occurrences of churning as possible.
-# 
+***
 ### Rusty Bargain Car Value Predictions
 
 [Notebook](https://github.com/jodiambra/Rusty-Bargain-Car-Market-Value/blob/main/Rusty%20Bargain.ipynb)
@@ -125,7 +125,7 @@ This is a binary classification problem, therefore, we will be focussing on that
 
 - Purpose
 Rusty Bargain is developing an app to attract new customers, and they need to be able to quickly find out the market value of a car. We are given access to historical data: technical specifications, trim, and prices. Rusty Bargain wants a model that will predict the value of the car, while also considering the quality and speed of the prediction, and also the time required for training.
-#
+***
 ### Yandex-Music
 
 [Notebook](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
@@ -134,7 +134,7 @@ Rusty Bargain is developing an app to attract new customers, and they need to be
 
 -  Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
-#
+***
 ### Instacart-EDA, Instacart Exploratory Data Analysis
 
 [Notebook](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
@@ -143,8 +143,7 @@ The purpose of this project is to compare the music preferences in the cities of
 
 -  Purpose
 This project analyzes data collected by Instacart, the grocery delivery platform. The purpose of this project is to clean up the data, and use the cleaned data to report insights on shopping habits of Instacart customers. The data  was cleaned by removing duplicate vales, and filling in missing values, all while maintaining the integrity of the dataset. Analyses indicated the number of orders placed, dependent on variables such as time of the day, day of the week, and time since the customer last placed an order. The results demonstrate the distribution of the number of orders customers place, the top 20 products, and the top 20 reordered products. 
-#
-
+***
 ### Megaline-Plus
 
 [Notebook](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
@@ -153,7 +152,7 @@ This project analyzes data collected by Instacart, the grocery delivery platform
 
 -  Purpose 
 The purpose of this project remains to analyze the data provided by the telecom operator Megaline. With an offering of two plans, Surf and Ultimate, the goal of this project is to determine optimal capital allocation. We will determine which plan brings in more revenue. This will result in an adjustment of the advertising budget, as a means to further increase revenue. The dataset provided is a sample of the population of Megaline customers, across different cities in 2018. We will conduct further analysis on the client behavior, as well as look at other important insights found in the data. 
-#
+***
 ### Megaline Plus Recommendations
 
 [Notebook](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
@@ -162,7 +161,7 @@ The purpose of this project remains to analyze the data provided by the telecom 
 
 - Purpose
 The purpose of this project is to aid Megaline, a mobile carrier, in developing a model that will analyze subscribers' behavior. Once the behavior is analyzed, subscribers on a legacy plan can be recommended one of Megaline's newer plans: Smart or Ultra. We are provided with behavior data from subscribers who have already switched to the new plans. A successful model will classify a correct new plan to a legacy plan customer. We will be working with data that we've used previously, so the data will be clean.
-#
+***
 ### Zuber Web Scrapping
 
 [Notebook](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
@@ -172,7 +171,7 @@ The purpose of this project is to aid Megaline, a mobile carrier, in developing 
 
 - Purpose
 Zuber is a new ride-sharing company that is launching in Chicago. We are tasked to find patterns in the available information. The goal of the project is to understand passenger passenger preferences and the impact of external factors on rides. Working with the database, we will analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
-#
+***
 ### Oily Giant Profitable Well Prediction
 
 [Notebook](https://github.com/jodiambra/Oily-Giant/blob/main/Oily%20Giant.ipynb)
@@ -181,7 +180,7 @@ Zuber is a new ride-sharing company that is launching in Chicago. We are tasked 
 
 - Purpose 
 The purpose of this project is to find the best location for a our customer, OilyGiant, to place a new well for mining oil. We are given oil well parameters in three distinct regions, upon which we will use to create our linear regression model. The model will predict the volume of reserves in the new wells, and the region with the highest total profit will be chosen for the new well.
-#
+***
 ### Zyfra Gold Recovery Prediction 
 
 [Notebook](https://github.com/jodiambra/Zyfra-Gold-Mining/blob/main/Zyfra%20Machine%20Learning%20Model.ipynb)
