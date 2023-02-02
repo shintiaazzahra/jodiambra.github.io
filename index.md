@@ -157,7 +157,7 @@ The purpose of this project is to prepare a prototype of a machine learning mode
 ---
 
 
-
+[Yandex](https://jodiambra.github.io/htmls/yandex.html)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
