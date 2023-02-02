@@ -110,8 +110,9 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 
 ### Beta Bank Churn 
 
-[Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)  ||  [Website](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)  
-
+[Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
+||
+[Website](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)  
 
 - Purpose
 The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
