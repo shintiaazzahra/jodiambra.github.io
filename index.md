@@ -175,6 +175,9 @@ The purpose of this project is to aid Megaline, a mobile carrier, in developing 
 ||
 [Website1](https://jodiambra.github.io/htmls/Zuber_Ride_Share.html)
 [Website2](https://jodiambra.github.io/htmls/folium.html)
+||
+[Map1](https://jodiambra.github.io/htmls/saved_resource.html)
+[MAP2](https://jodiambra.github.io/htmls/saved_resource(1).html)
 
 - Purpose
 Zuber is a new ride-sharing company that is launching in Chicago. We are tasked to find patterns in the available information. The goal of the project is to understand passenger passenger preferences and the impact of external factors on rides. Working with the database, we will analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
