@@ -7,7 +7,7 @@ Data Science
 ### Ice Retail
 
 [Notebook](https://github.com/jodiambra/ICE-Retail/blob/main/ICE%20Retail%20EDA.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/ICE_Retail_EDA.html)
 
 <img src="Images/ice2.jpeg?raw=true"/>
@@ -43,7 +43,7 @@ Overall, we can look at our data to make predictions for 2017. First, inferences
 ### Sure Tomorrow Insurance
 
 [Notebook](https://github.com/jodiambra/Sure-Tomorrow-Insurance/blob/main/Sure%20Tomorrow%20Insurance.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Sure_Tomorrow_Insurance.html)
 
 <img src="Images/sure1.jpeg?raw=true"/>
@@ -77,9 +77,10 @@ The Sure Tomorrow insurance company wants to solve several tasks with the help o
 We trained a model that would return similar customers for a given one. This model was calculated while scaled and unscaled, using euclidean and manhattan distances. Then, we created a dummy model to test the f1 scores of different probability values. We found the dummy model to be less accurate than the classification model we built, using both original and scaled data. After, a linear regression model was built with matrix operations. The evaluation metrics of RMSE and R2 score were measured, and then compared to a linear regression model on the obfuscated data. We concluded that obfuscation did not alter the accuracy of the model, as the RMSE and R2 metrics were the same before and after obfuscation. Overall, we have provided results that suggest a very accurate prediction as to whether a customer will, or will not receive insurance benefits. This is more accurate than trying to predict the actual number of insurance benefits a customer will receive. Consequently, we suggest Sure Tomorrow use the more accurate classification model over the regression model.  
 
 ---
-### Sweet Lift Taxi Time Series Forcast
-[Notebook](https://github.com/jodiambra/Sweet-Lift-Taxi-Time-Series-Predictions/blob/main/Sweet%20Lift%20Time%20Series%20Predictions.ipynb)
+### Sweet Lift Taxi Time Series Forecast
 
+[Notebook](https://github.com/jodiambra/Sweet-Lift-Taxi-Time-Series-Predictions/blob/main/Sweet%20Lift%20Time%20Series%20Predictions.ipynb)
+||
 [Website](https://jodiambra.github.io/htmls/Sweet_Lift.html)
 
 <img src="Images/sweet1.jpeg?raw=true"/>
@@ -106,85 +107,85 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 
 ## Other Projects
 
-Beta Bank Churn
 
-[Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
+### Beta Bank Churn 
 
-[Website](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)
+[Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)  ||  [Website](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)  
+
 
 - Purpose
 The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
 This is a binary classification problem, therefore, we will be focussing on that class of modeling. This is the case because the target is categorical: churn or not. The F1 score is an appropriate indicator of our model, because we care about both precision and recall. We care about precision because we want to capture as many true positive occurrences of churning. Recall is also crucial, as we want to capture as many occurrences of churning as possible.
-
-Rusty Bargain Car Value Predictions
+# 
+### Rusty Bargain Car Value Predictions
 
 [Notebook](https://github.com/jodiambra/Rusty-Bargain-Car-Market-Value/blob/main/Rusty%20Bargain.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Rusty_Bargain.html)
 
 - Purpose
 Rusty Bargain is developing an app to attract new customers, and they need to be able to quickly find out the market value of a car. We are given access to historical data: technical specifications, trim, and prices. Rusty Bargain wants a model that will predict the value of the car, while also considering the quality and speed of the prediction, and also the time required for training.
-
-Yandex-Music
+#
+### Yandex-Music
 
 [Notebook](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/yandex.html)
+
 -  Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
-
-Instacart-EDA
-Instacart Exploratory Data Analysis
+#
+### Instacart-EDA, Instacart Exploratory Data Analysis
 
 [Notebook](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Instacart_EDA.html)
 
 -  Purpose
 This project analyzes data collected by Instacart, the grocery delivery platform. The purpose of this project is to clean up the data, and use the cleaned data to report insights on shopping habits of Instacart customers. The data  was cleaned by removing duplicate vales, and filling in missing values, all while maintaining the integrity of the dataset. Analyses indicated the number of orders placed, dependent on variables such as time of the day, day of the week, and time since the customer last placed an order. The results demonstrate the distribution of the number of orders customers place, the top 20 products, and the top 20 reordered products. 
+#
 
-
-Megaline-Plus
+### Megaline-Plus
 
 [Notebook](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Megaline_EDA.html)
 
 -  Purpose 
 The purpose of this project remains to analyze the data provided by the telecom operator Megaline. With an offering of two plans, Surf and Ultimate, the goal of this project is to determine optimal capital allocation. We will determine which plan brings in more revenue. This will result in an adjustment of the advertising budget, as a means to further increase revenue. The dataset provided is a sample of the population of Megaline customers, across different cities in 2018. We will conduct further analysis on the client behavior, as well as look at other important insights found in the data. 
-
-Megaline Plus Recommendations
+#
+### Megaline Plus Recommendations
 
 [Notebook](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Megaline_Plan_Recommendations.html)
 
 - Purpose
 The purpose of this project is to aid Megaline, a mobile carrier, in developing a model that will analyze subscribers' behavior. Once the behavior is analyzed, subscribers on a legacy plan can be recommended one of Megaline's newer plans: Smart or Ultra. We are provided with behavior data from subscribers who have already switched to the new plans. A successful model will classify a correct new plan to a legacy plan customer. We will be working with data that we've used previously, so the data will be clean.
-
-Zuber Web Scrapping
+#
+### Zuber Web Scrapping
 
 [Notebook](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
-
+||
 [Website1](https://jodiambra.github.io/htmls/Zuber_Ride_Share.html)
 [Website2](https://jodiambra.github.io/htmls/folium.html)
 
 - Purpose
 Zuber is a new ride-sharing company that is launching in Chicago. We are tasked to find patterns in the available information. The goal of the project is to understand passenger passenger preferences and the impact of external factors on rides. Working with the database, we will analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
-
-Oily Giant Profitable Well Prediction
+#
+### Oily Giant Profitable Well Prediction
 
 [Notebook](https://github.com/jodiambra/Oily-Giant/blob/main/Oily%20Giant.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Oily_Giant.html)
 
 - Purpose 
 The purpose of this project is to find the best location for a our customer, OilyGiant, to place a new well for mining oil. We are given oil well parameters in three distinct regions, upon which we will use to create our linear regression model. The model will predict the volume of reserves in the new wells, and the region with the highest total profit will be chosen for the new well.
-
-Zyfra Gold Recovery Prediction 
+#
+### Zyfra Gold Recovery Prediction 
 
 [Notebook](https://github.com/jodiambra/Zyfra-Gold-Mining/blob/main/Zyfra%20Machine%20Learning%20Model.ipynb)
-
+||
 [Website](https://jodiambra.github.io/htmls/Zyfra_Machine_Learning_Model.html)
 
 - Purpose
