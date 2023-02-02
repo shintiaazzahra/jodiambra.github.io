@@ -8,10 +8,10 @@ Data Science
 
 [Notebook](https://github.com/jodiambra/ICE-Retail/blob/main/ICE%20Retail%20EDA.ipynb)
 [Website](https://jodiambra.github.io/htmls/ICE_Retail_EDA.html)
-<img src="ice2.jpeg?raw=true"/>
-<img src="ice4.jpeg?raw=true"/>
-<img src="ice8.jpeg?raw=true"/>
-<img src="ice9.jpeg?raw=true"/>
+<img src="Images/ice2.jpeg?raw=true"/>
+<img src="Images/ice4.jpeg?raw=true"/>
+<img src="Images/ice8.jpeg?raw=true"/>
+<img src="Images/ice9.jpeg?raw=true"/>
 
 #### Skills Demonstrated 
     Pandas
@@ -46,9 +46,9 @@ Open figures to see static visualizations.
 
 [Notebook](https://github.com/jodiambra/Sure-Tomorrow-Insurance/blob/main/Sure%20Tomorrow%20Insurance.ipynb)
 [Website](https://jodiambra.github.io/htmls/Sure_Tomorrow_Insurance.html)
-<img src="sure1.jpeg?raw=true"/>
-<img src="sure2.jpeg?raw=true"/>
-<img src="sure3.jpeg?raw=true"/>
+<img src="Images/sure1.jpeg?raw=true"/>
+<img src="Images/sure2.jpeg?raw=true"/>
+<img src="Images/sure3.jpeg?raw=true"/>
 
 #### Skills Demonstrated
     Pandas
@@ -80,9 +80,9 @@ We trained a model that would return similar customers for a given one. This mod
 ### Sweet Lift Taxi Time Series Forcast
 [Notebook](https://github.com/jodiambra/Sweet-Lift-Taxi-Time-Series-Predictions/blob/main/Sweet%20Lift%20Time%20Series%20Predictions.ipynb)
 [Website](https://jodiambra.github.io/htmls/Sweet_Lift.html)
-<img src="sweet1.jpeg?raw=true"/>
-<img src="sweet2.jpeg?raw=true"/>
-<img src="sweet3.jpeg?raw=true"/>
+<img src="Images/sweet1.jpeg?raw=true"/>
+<img src="Images/sweet2.jpeg?raw=true"/>
+<img src="Images/sweet3.jpeg?raw=true"/>
 
 #### Skills Demonstrated
     Pandas
