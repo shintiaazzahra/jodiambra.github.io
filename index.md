@@ -7,6 +7,7 @@ Data Science
 ### Ice Retail
 
 [Notebook](https://github.com/jodiambra/ICE-Retail/blob/main/ICE%20Retail%20EDA.ipynb)
+[]
 [Website](https://jodiambra.github.io/htmls/ICE_Retail_EDA.html)
 <img src="Images/ice2.jpeg?raw=true"/>
 <img src="Images/ice4.jpeg?raw=true"/>
@@ -105,7 +106,7 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 ## Other Projects
 
 Beta Bank Churn
-[Beta Bank Churn](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
+[Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
 [Website](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)
 - Purpose
 The purpose of this project is to investigate the churn of Beta Bank customers. The bank has noticed customers are slowly leaving, month over month. The most cost effective solution is to retain existing customers, rather than recruit new customers. The bank needs a model that will predict whether a customer will leave the bank soon. The model will be trained on data from clients' past behavior and termination of contracts with the bank. The goal of the project is to build a model with an F1 score of at least 0.59.
@@ -143,7 +144,7 @@ Megaline Plus Recommendations
 The purpose of this project is to aid Megaline, a mobile carrier, in developing a model that will analyze subscribers' behavior. Once the behavior is analyzed, subscribers on a legacy plan can be recommended one of Megaline's newer plans: Smart or Ultra. We are provided with behavior data from subscribers who have already switched to the new plans. A successful model will classify a correct new plan to a legacy plan customer. We will be working with data that we've used previously, so the data will be clean.
 
 Zuber Web Scrapping
-[Zuber Web Scrapping](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
+[Notebook](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
 [Website1](https://jodiambra.github.io/htmls/Zuber_Ride_Share.html)
 [Website2](https://jodiambra.github.io/htmls/folium.html)
 - Purpose
