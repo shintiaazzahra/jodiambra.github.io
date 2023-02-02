@@ -139,7 +139,7 @@ Rusty Bargain is developing an app to attract new customers, and they need to be
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
 
 ---
-### Instacart-EDA, Instacart Exploratory Data Analysis
+### Instacart-EDA, 
 
 [Notebook](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
 ||
