@@ -113,8 +113,8 @@ Rusty Bargain Car Value Predictions
 Rusty Bargain is developing an app to attract new customers, and they need to be able to quickly find out the market value of a car. We are given access to historical data: technical specifications, trim, and prices. Rusty Bargain wants a model that will predict the value of the car, while also considering the quality and speed of the prediction, and also the time required for training.
 Yandex-Music
 First data science project, EDA
-[Yandex Music](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
-
+[Yandex Music Notebook](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
+[Yandex Interactive HTML](https://jodiambra.github.io/htmls/yandex.html)
 -  Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior.
 
@@ -157,7 +157,7 @@ The purpose of this project is to prepare a prototype of a machine learning mode
 ---
 
 
-[Yandex](https://jodiambra.github.io/htmls/yandex.html)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
