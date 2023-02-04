@@ -205,12 +205,6 @@ The purpose of this project is to prepare a prototype of a machine learning mode
 
 ---
 
-### US Car Sales Website
-[Notebook](https://github.com/jodiambra/Software-Development-Tools/tree/main/notebooks)
-[Web Application](https://us-vehicles-sales.onrender.com)
-
-- Purpose
-This project is for a web application that displays visualizations for used car advertisements. Exploratory data analysis was conducted on the used car sales metrics. The app was made using the Streamlit library, and deployed using Render.
 
 ---
 <p style="font-size:12px"></p>
