@@ -110,7 +110,7 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 ||
 [Web Application](https://us-vehicles-sales.onrender.com/)
 
-- Purpose
+#### Purpose
 This project is for a web application that displays visualizations for used car advertisements. Exploratory data analysis was conducted on the used car sales metrics. The app was made using the Streamlit library, and deployed using Render.
 
 ---
@@ -120,7 +120,7 @@ This project is for a web application that displays visualizations for used car 
 ||
 [Web Application](https://spotify-eda.onrender.com)
 
-- Purpose
+#### Purpose
 
 We conducted exploratory data analysis on Spotify playlists, songs, and artist data. We were able to identify trends in spotify users, the most popular songs of each decade, and unpopular song features. Finally, we illustrated the relationship between music awards and popular culture with the most popular artists on the platform. 
 
