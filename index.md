@@ -202,9 +202,15 @@ The purpose of this project is to find the best location for a our customer, Oil
 - Purpose
 The purpose of this project is to prepare a prototype of a machine learning model for Zyfra, a company that develops efficiency solutions for the heavy industry. The model will aim to predict the amount of gold recovered from gold ore. The features we will use will be data on gold extraction and purification. The goal is to have the model optimize the production and eliminate unprofitable parameters.
 
-
 ---
+### US Vehicle Sales Web Application 
 
+[Github Repository](https://github.com/jodiambra/Software-Development-Tools)
+||
+[Web Application](https://us-vehicles-sales.onrender.com/)
+
+- Purpose
+This project is for a web application that displays visualizations for used car advertisements. Exploratory data analysis was conducted on the used car sales metrics. The app was made using the Streamlit library, and deployed using Render.
 
 ---
 <p style="font-size:12px"></p>
