@@ -226,4 +226,4 @@ The purpose of this project is to prepare a prototype of a machine learning mode
 
 ---
 ---
-<p style="font-size:12px"></p>
+<p style="font-size:20px"></p>
