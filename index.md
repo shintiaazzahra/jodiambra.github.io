@@ -110,6 +110,10 @@ Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the nu
 ||
 [Web Application](https://us-vehicles-sales.onrender.com/)
 
+<img src="Images/cars1.jpeg?raw=true"/>
+<img src="Images/cars2.jpeg?raw=true"/>
+<img src="Images/cars3.jpeg?raw=true"/>
+
 #### Purpose
 This project is for a web application that displays visualizations for used car advertisements. Exploratory data analysis was conducted on the used car sales metrics. The app was made using the Streamlit library, and deployed using Render.
 
@@ -119,6 +123,11 @@ This project is for a web application that displays visualizations for used car 
 [Github Repository](https://github.com/jodiambra/Spotify)
 ||
 [Web Application](https://spotify-eda.onrender.com)
+
+<img src="Images/spotify1.jpeg?raw=true"/>
+<img src="Images/spotify2.jpeg?raw=true"/>
+<img src="Images/spotify3.jpeg?raw=true"/>
+<img src="Images/spotify4.jpeg?raw=true"/>
 
 #### Purpose
 
