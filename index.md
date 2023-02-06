@@ -26,6 +26,7 @@ We conducted EDA to determine a profitable strategy in North America, which enta
 
 #### Description
 We provided a very accurate model to predict whether a customer will, or will not receive insurance benefits. 
+
 ---
 ### Sweet Lift Taxi Time Series Forecast
 
@@ -50,6 +51,7 @@ We provided a model for Sweet Lift Taxi to predict the number of orders of the n
 
 #### Description
 This web application displays interactive visualizations for used car sales advertisements. 
+
 ---
 ### Spotify EDA Web Application 
 
@@ -68,7 +70,7 @@ We identified trends in Spotify users and songs, as well as the relationship bet
 ## Other Projects
 
 
-### Beta Bank Churn 
+### Beta Bank Churn Predictor
 
 [Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
 ||
@@ -90,7 +92,7 @@ In an attempt to define the most cost effective solution to retain customers, we
 We developed a regression model for Rusty Bargain's mobile app that quickly appraises the value of a car, while also considering the importance of quality in the prediction. 
 
 ---
-### Yandex-Music
+### Yandex-Music EDA
 
 [Notebook](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
 ||
@@ -101,7 +103,7 @@ We developed a regression model for Rusty Bargain's mobile app that quickly appr
 We used data provided by Yandex.music to test hypotheses on user behavior, and preferences in the cities of Springfield and Shelbyville. 
 
 ---
-### Instacart-EDA, 
+### Instacart EDA
 
 [Notebook](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
 ||
@@ -112,7 +114,7 @@ We used data provided by Yandex.music to test hypotheses on user behavior, and p
 Insights gathered on Instacart customers indicated the number of orders placed depended on variables such as time of the day, day of the week, and the time since the customer last placed an order. 
 
 ---
-### Megaline-Plus
+### Megaline-Plus Marketing Strategy
 
 [Notebook](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
 ||
@@ -123,7 +125,7 @@ Insights gathered on Instacart customers indicated the number of orders placed d
 As a means to further increase revenue, we determined optimal capital allocation from the marketing budget to Megaline's more profitable Ultimate Plan. 
 
 ---
-### Megaline Plus Recommendations
+### Megaline Plus Plan Recommendations
 
 [Notebook](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
 ||
@@ -134,7 +136,7 @@ As a means to further increase revenue, we determined optimal capital allocation
 We analyzed subscriber behavior on a legacy plan, to accurately recommended one of Megaline's newer plans: Smart or Ultra. 
 
 ---
-### Zuber Web Scrapping
+### Zuber Ride Share Passenger Preferences
 
 [Notebook](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
 ||
