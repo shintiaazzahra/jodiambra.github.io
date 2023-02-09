@@ -44,7 +44,7 @@ We provided a model for Sweet Lift Taxi to predict the number of orders of the n
 
 [Github Repository](https://github.com/jodiambra/Software-Development-Tools)
 ||
-[Web Notebook](https://us-vehicles-sales.onrender.com/)
+[Web Application](https://us-vehicles-sales.onrender.com/)
 
 <img src="Images/cars1.jpg?raw=true"/>
 
@@ -57,7 +57,7 @@ This web application displays interactive visualizations for used car sales adve
 
 [Github Repository](https://github.com/jodiambra/Spotify)
 ||
-[Web Notebook](https://spotify-eda.onrender.com)
+[Web Application](https://spotify-eda.onrender.com)
 
 <img src="Images/spotify1.jpg?raw=true"/>
 
