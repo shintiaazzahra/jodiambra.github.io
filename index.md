@@ -8,7 +8,7 @@ Data Science
 
 [Notebook](https://github.com/jodiambra/ICE-Retail/blob/main/ICE%20Retail%20EDA.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/ICE_Retail_EDA.html)
+[Web Notebook](https://jodiambra.github.io/ICE-Retail-EDA/)
 
 <img src="Images/ice8.jpeg?raw=true"/>
 
@@ -20,7 +20,7 @@ We conducted EDA to determine a profitable strategy in North America, which enta
 
 [Notebook](https://github.com/jodiambra/Sure-Tomorrow-Insurance/blob/main/Sure%20Tomorrow%20Insurance.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Sure_Tomorrow_Insurance.html)
+[Web Notebook](https://jodiambra.github.io/Sure-Tomorrow-Insurance-Benefits-Predictions/)
 
 <img src="Images/sure1.jpeg?raw=true"/>
 
@@ -32,7 +32,7 @@ We provided a very accurate model to predict whether a customer will, or will no
 
 [Notebook](https://github.com/jodiambra/Sweet-Lift-Taxi-Time-Series-Predictions/blob/main/Sweet%20Lift%20Time%20Series%20Predictions.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Sweet_Lift.html)
+[Web Notebook](https://jodiambra.github.io/Sweet-Lift-Taxi-Time-Series-Predictions/)
 
 <img src="Images/sweet1.jpeg?raw=true"/>
 
@@ -74,7 +74,7 @@ We identified trends in Spotify users and songs, as well as the relationship bet
 
 [Notebook](https://github.com/jodiambra/Beta-Bank-Churn-Predictions/blob/main/Beta%20Bank%20Churn.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Beta_Bank_Churn.html)  
+[Web Notebook](https://jodiambra.github.io/Beta-Bank-Churn-Predictions/)  
 
 - Description
 
@@ -85,18 +85,40 @@ In an attempt to define the most cost effective solution to retain customers, we
 
 [Notebook](https://github.com/jodiambra/Rusty-Bargain-Car-Market-Value/blob/main/Rusty%20Bargain.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Rusty_Bargain.html)
+[Web Notebook](https://jodiambra.github.io/Rusty-Bargain-Car-Market-Value/)
 
 - Description 
 
 We developed a regression model for Rusty Bargain's mobile app that quickly appraises the value of a car, while also considering the importance of quality in the prediction. 
 
 ---
+### Film Junky Union Sentiment Analysis
+
+[Notebook](https://github.com/jodiambra/Film-Junky-Union-Sentiment-Analysis/blob/main/Film%20Junky%20Union.ipynb)
+||
+[Web Notebook](https://jodiambra.github.io/Film-Junky-Union-Sentiment-Analysis/)
+
+- Description 
+
+We used NLP to complete the objective of creating a model that could accurately predict negative film reviews, and acheived and F1 score of 0.85.  
+
+---
+### Interconnect Telecom Churn
+
+[Notebook](https://github.com/jodiambra/Interconnect-Telecom-Churn-Predictions/blob/main/telecom.ipynb)
+||
+[Web Notebook](https://jodiambra.github.io/Interconnect-Telecom-Churn-Predictions/)
+
+- Description 
+
+We used boosting classification models to forcast churn of clients, and acheived an AUC ROC score 25% better than our target. 
+
+---
 ### Yandex-Music EDA
 
 [Notebook](https://github.com/jodiambra/Yandex-Music/blob/main/Yandex%20Music%20Final.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/yandex.html)
+[Web Notebook](https://jodiambra.github.io/Yandex-Music-EDA/)
 
 -  Description
 
@@ -107,7 +129,7 @@ We used data provided by Yandex.music to test hypotheses on user behavior, and p
 
 [Notebook](https://github.com/jodiambra/Instacart-EDA/blob/main/Instacart%20EDA.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Instacart_EDA.html)
+[Web Notebook](https://jodiambra.github.io/Instacart-EDA/)
 
 -  Description
 
@@ -118,7 +140,7 @@ Insights gathered on Instacart customers indicated the number of orders placed d
 
 [Notebook](https://github.com/jodiambra/Megaline-Plus/blob/main/Megaline%20EDA.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Megaline_EDA.html)
+[Web Notebook](https://jodiambra.github.io/Megaline-Plus-EDA/)
 
 -  Description
 
@@ -129,7 +151,7 @@ As a means to further increase revenue, we determined optimal capital allocation
 
 [Notebook](https://github.com/jodiambra/Megaline-Plan-Recommendations/blob/main/Megaline%20Plan%20Recommendations.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Megaline_Plan_Recommendations.html)
+[Web Notebook](https://jodiambra.github.io/Megaline-Plan-Recommendations/)
 
 - Description 
 
@@ -140,7 +162,7 @@ We analyzed subscriber behavior on a legacy plan, to accurately recommended one 
 
 [Notebook](https://github.com/jodiambra/Zuber-Web-Scrapping/blob/main/Zuber%20Ride%20Share.ipynb)
 ||
-[Web Notebook1](https://jodiambra.github.io/htmls/Zuber_Ride_Share.html)
+[Web Notebook1](https://jodiambra.github.io/Zuber-Ride-Duration-Hypothesis-Testing/)
 [Web Notebook2](https://jodiambra.github.io/htmls/folium.html)
 ||
 [Map1](https://jodiambra.github.io/htmls/saved_resource.html)
@@ -155,7 +177,7 @@ We conducted EDA to understand passenger preferences and the impact of external 
 
 [Notebook](https://github.com/jodiambra/Oily-Giant/blob/main/Oily%20Giant.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Oily_Giant.html)
+[Web Notebook](https://jodiambra.github.io/Oily-Giant-Profit-Predictions/)
 
 - Description
 
@@ -166,7 +188,7 @@ We are given oil well parameters in three distinct regions, upon which we will u
 
 [Notebook](https://github.com/jodiambra/Zyfra-Gold-Mining/blob/main/Zyfra%20Machine%20Learning%20Model.ipynb)
 ||
-[Web Notebook](https://jodiambra.github.io/htmls/Zyfra_Machine_Learning_Model.html)
+[Web Notebook](https://jodiambra.github.io/Zyfra-Gold-Recovery-Predictions/)
 
 - Description 
 
